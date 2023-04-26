@@ -1,3 +1,3 @@
 # iOS-Projects
 
-This is a repository for the iOS and Swift projects I make :)
+I am currently learning more about Swift, SwiftUI, and iOS development. This is a repository for some os the projects I make :)
